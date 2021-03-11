@@ -1,0 +1,15 @@
+
+body {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.7;
+    color: $color-dark-grey;
+}
+
+.paragraph {
+    font-size: $font-medium;
+
+    &:not(:last-child) {
+        margin-bottom: 3rem;
+    }
+}

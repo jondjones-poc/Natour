@@ -1,0 +1,32 @@
+// Colours
+$color-primary: #7ed56f;
+$color-primary-light: #55c57a;
+$color-primary-dark: #28b485;
+$color-white: #fff;
+$color-dark-grey: #777;
+$color-grey: #999;
+$color-black: #000;
+$color-black-dark: #333;
+$color-light-grey: #f7f7f7;
+$color-orange: #ff7730;
+$color-light-orange: #ffb900;
+$color-blue: #2998ff;
+$color-light-blue: #5643fa;
+
+// Grid
+$grid-width: 114rem;
+$gutter-vertial: 8rem;
+$gutter-vertial-small: 6rem;
+$gutter-hoziontal: 6rem;
+
+// Sizes
+$font-medium: 1.6rem;
+
+// Border Radius
+$border-radius-standard: .3rem;
+
+// Breakpoints
+$breakpoint-phone: 37.5em; // 600px
+$breakpoint-tab-port: 56.25em; // 900px
+$breakpoint-tab-land: 75em; // 1200px
+$breakpoint-big-desk: 112.5em; //1800px
