@@ -1,6 +1,6 @@
 # Natour - By Jon D Jones 💥
 
-A SASS based website:
+A travel inspired SASS based website.  Demonstrates some nice transions and animations
 
 **Live Site**: [https://natours-poc.netlify.app/](https://natours-poc.netlify.app/)
 
